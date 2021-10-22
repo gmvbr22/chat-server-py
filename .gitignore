@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# python3 -m venv chat
+chat_server/
+
 # C extensions
 *.so
 
