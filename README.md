@@ -4,6 +4,12 @@ Chat usando websocket escrito em python
 
 # Instalação
 
-```
-python3 -m venv chat_server
+```bash
+
+# Cria o ambiente env
+python3 -m venv env
+
+# Para ativar o ambiente
+source env/bin/activate
+
 ```
